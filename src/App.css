@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.sign{
+  padding: 10px;
+}
+.sign:hover{
+  text-decoration: underline;
+}
+.btn{
+  background-color: #ed64a6;
+  color: white;
+  /* border: 2px solid green; */
+  border: none;
+}
